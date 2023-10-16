@@ -1,0 +1,348 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    /*background-color:#0d0d11;*/
+    font-family: 'Poppins', sans-serif;
+
+}
+
+header {
+    width: 100%;
+    background-color: gray;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.time-box {
+    text-align: center;
+}
+
+/* bannerimg -box starts*/
+
+.mace-box {
+    width: 100%;
+    text-align: center;
+    background-color: white;
+}
+
+/* bannerimg -box end*/
+
+/* navigation starts*/
+
+#navigation {
+    background: white;
+}
+
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.navbar-right {
+    margin-bottom: 3rem;
+}
+
+
+
+
+.navbar-default .navbar-nav>li>a {
+    color: grey;
+    font-size: 1.6rem;
+    font-weight: 500;
+
+}
+
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: black;
+}
+
+/* navigation end*/
+
+.mace-box{
+
+    font-family: 'Cinzel', serif;
+    font-weight: 700;
+
+}
+
+
+/*fullblack-box starts*/
+
+.fullblack-box {
+    background-color: black;
+    width: 100%;
+    color: white;
+}
+
+/*fullblack-box end*/
+
+/*bannerimgk-box starts*/
+
+.bannerimg-box img {
+    width: 100%;
+
+}
+
+.bannerimg-box button {
+    padding: 8px 20px;
+    background: white;
+    color: black;
+    font-size: 2rem;
+    font-weight: 600;
+    border-color: black;
+}
+
+.bannerimg-box h3 {
+    font-weight: 600;
+    color: gray;
+}
+
+/*bannerimgk-box end*/
+
+
+/*secoundbannerimg-box stars*/
+
+.secoundbannerimg-box{
+    width: 100%;
+    height: 80vh;
+    background-image: url(../img/banner02.webp);
+    background-size: cover;
+    background-position: center top;
+    margin-bottom: 20px;
+    color: white;
+    padding-bottom: 3rem;
+
+}
+/*secoundbannerimg-box end*/
+
+/*recent-box start*/
+
+.recent-box .images-box img{
+    width: 100%;
+    padding: 1rem;
+}
+
+.recent-box h1{
+    font-family: 'Cinzel', serif;
+    font-weight: 700;
+}
+
+/*recent-box end*/
+
+/*Luxury-box start*/
+
+.luxurydbannerimg-box{
+    width: 100%;
+    height: 70vh;
+    background-image: url(../img/luxuryimg.webp);
+    background-size: cover;
+    background-position: center top;
+    margin-bottom: 20px;
+    color: white;
+    padding-bottom: 3rem;
+}
+
+.luxurydbannerimg-box {
+    text-align: center;
+    padding-top: 10rem;
+    padding-bottom: 2rem;
+
+}
+
+.luxury-box h1 {
+    text-align: center;
+    font-family: 'Cinzel', serif;
+}
+
+.button-box .vistshowroom-button{
+    padding: 8px 20px;
+    background: white;
+    color: black;
+    font-size: 2rem;
+    font-weight: 600;
+    border-color: black;
+}
+
+
+.luxurydbannerimg-box h5{
+    letter-spacing:2PX;
+}
+
+
+/*Luxury-box end*/
+
+/*open box starts*/
+
+.open-box {
+    margin-top: 5rem;
+}
+
+.open-box .imges-box img{
+    width: 100%;
+}
+
+.heading-box {
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+}
+
+.heading-box h2{
+    letter-spacing: 2px;
+    font-family: 'Playfair Display', serif;
+}
+
+.heading-box h4 {
+    font-size: 2rem;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+
+.heading-box h6{
+    margin-top: 4rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+    letter-spacing: 3px;
+}
+
+/*open box end*/
+
+
+/*fullvieo box starts*/
+
+.fullvideo-box{
+    margin-top: 3rem;
+}
+
+
+.fullvideo-box h1 {
+    text-align: center;
+    font-size: 36px;
+    color: black;
+   
+    font-family: 'Cinzel', serif;
+}
+
+
+/*fullvieo box end*/
+
+/*showroom-box starts*/
+
+.showroom-box img{
+    width: 100%;
+}
+
+.twoheadding-box {
+margin-top: 3rem;
+
+}
+
+.showroom-box .twoheadding-box h2{
+     font-family: 'Cinzel', serif;
+}
+
+.twoheadding-box .border{
+    font-size: 1.8rem;
+    font-family: 'Cinzel', serif;
+    border-left: 2px solid black;
+}
+
+.twoheadding-box p{
+    font-size: 1.8rem;
+    font-family: 'Cinzel', serif;
+    margin-left: 1rem;
+}
+
+button.book-button {
+    padding: 13px 18PX;
+    margin-top: 2REM;
+    font-size: 2rem;
+    letter-spacing: 1px;
+    color: black;
+    background: white;
+}
+
+/*showroom-box end*/
+
+/*fourimage-box starts*/
+
+
+
+/*forimage-box starts*/
+
+
+.forimage-box{
+    margin-top: 3rem;
+}
+.fourimage-box img{
+    width: 100%;
+}
+
+.fourimage-box{
+    text-align: center;
+    font-family: 'Cinzel', serif;
+}
+
+
+
+/*footer-box starts*/
+
+
+
+
+.footer-box{
+    margin-top: 5rem;
+}
+
+
+.footer-box h4{
+    color: black;
+    font-size: 1.6rem;
+    font-weight: 700;
+}
+
+
+.footer-box .footersocial a{
+    color: white;
+    font-size: 1.7rem;
+    padding: 1rem;
+
+    margin-top: 1rem;
+}
+
+.footer-box a {
+    text-decoration: none;
+    color: #9C9C9C;
+    font-size: 1.5rem;
+}
+
+.footer-box ul li{
+    list-style: none;
+    line-height: 1.7;
+ 
+}
+
+.footer-box p{
+    color: #9C9C9C;
+    line-height: 1.5;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+}
+#email {
+    width: 90%;
+    padding: 2rem;
+    margin-top: 2rem;
+    border-radius: 15px;
+}
